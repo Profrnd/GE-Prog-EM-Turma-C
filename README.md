@@ -1,2 +1,1 @@
-# GE-Prog-EM-Turma-C
-Pasta de estudos Turma GE-C
+Pasta 1º B CPMAR - Pensamento Computacional. 
